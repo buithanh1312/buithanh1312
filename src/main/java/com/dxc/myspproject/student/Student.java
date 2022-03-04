@@ -10,7 +10,6 @@ public class Student {
 	private Integer age;
 	
 	public Student() {
-		super();
 	}
 
 	public Student(Long id, 
